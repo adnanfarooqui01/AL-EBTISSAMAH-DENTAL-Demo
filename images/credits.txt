@@ -1,0 +1,10 @@
+Photographs are from Unsplash and were downloaded for local use.
+
+hero-1.jpg - Ozkan Guner: https://unsplash.com/photos/a-dentist-examining-a-patient-rRgjO2Y1g1E
+hero-2.jpg - Getty Images: https://unsplash.com/photos/modern-dental-office-with-chair-and-equipment-e7MJLM5VGjY
+hero-3.jpg - Ozkan Guner: https://unsplash.com/photos/a-dentist-working-on-a-patient-AWqHc49SU-c
+service-whitening.jpg - Kamal Hoseinianzade: https://unsplash.com/s/photos/teeth-whitening-dentist
+service-implants.jpg - Jonathan Borba: https://unsplash.com/s/photos/dental-implants
+service-braces.jpg - Atikah Akhtar: https://unsplash.com/s/photos/braces-orthodontics
+service-checkup.jpg - Caroline LM: https://unsplash.com/s/photos/dental-clinic
+about.jpg - Kari Bjorn Photography: https://unsplash.com/s/photos/dental-clinic
